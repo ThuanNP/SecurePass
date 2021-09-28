@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_password"
+            android:icon="@android:drawable/ic_secure"
+            android:title="Passwords" />
+        <item
+            android:id="@+id/nav_social"
+            android:icon="@drawable/ic_baseline_supervisor_account_24"
+            android:title="Social Accounts" />
+        <item
+            android:id="@+id/nav_wifi"
+            android:icon="@drawable/ic_baseline_wifi_24"
+            android:title="Wifi passwords" />
+    </group>
+</menu>

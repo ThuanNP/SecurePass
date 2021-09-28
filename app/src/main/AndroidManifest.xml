@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.thuannp.securepass">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
+
+    <uses-feature android:name="android.hardware.fingerprint" android:required="false" />
+
+    <application
+        android:allowBackup="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SecurePass">
+        <activity
+            android:name=".ModifyActivity"
+            android:exported="true" />
+        <activity
+            android:name=".AddActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ChangePasswordActivity"
+            android:exported="true" />
+        <activity
+            android:name=".HelpActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SettingActivity"
+            android:exported="true"
+            android:label="@string/title_activity_settings" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="true"
+            android:label="@string/title_activity_home"
+            android:launchMode="singleTop"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MLockActivity"
+            android:exported="true" />
+        <activity
+            android:name=".WelcomeActivity"
+            android:exported="true"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

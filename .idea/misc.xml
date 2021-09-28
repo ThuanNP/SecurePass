@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.19895833333333332" />
+        <entry key="app/src/main/res/drawable/btn_shape_capsule_dange.xml" value="0.35052083333333334" />
+        <entry key="app/src/main/res/drawable/btn_shape_capsule_safe.xml" value="0.35052083333333334" />
+        <entry key="app/src/main/res/font/capriola.xml" value="0.2140625" />
+        <entry key="app/src/main/res/layout/activity_add.xml" value="0.23369565217391305" />
+        <entry key="app/src/main/res/layout/activity_change_password.xml" value="0.18541666666666667" />
+        <entry key="app/src/main/res/layout/activity_help.xml" value="0.18541666666666667" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_home_drawer.xml" value="0.17291666666666666" />
+        <entry key="app/src/main/res/layout/activity_mlock.xml" value="0.18541666666666667" />
+        <entry key="app/src/main/res/layout/activity_modify.xml" value="0.1703125" />
+        <entry key="app/src/main/res/layout/activity_setting.xml" value="0.17135416666666667" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.16261398176291794" />
+        <entry key="app/src/main/res/layout/activity_welcome.xml" value="0.11388888888888889" />
+        <entry key="app/src/main/res/layout/app_bar_home.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/auth_bio_layout.xml" value="0.4152334152334152" />
+        <entry key="app/src/main/res/layout/content_home.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.18541666666666667" />
+        <entry key="app/src/main/res/layout/home_fragment.xml" value="0.18541666666666667" />
+        <entry key="app/src/main/res/layout/list_items.xml" value="0.18541666666666667" />
+        <entry key="app/src/main/res/layout/nav_header_home.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/password_fragment.xml" value="0.10733695652173914" />
+        <entry key="app/src/main/res/layout/social_fragment.xml" value="0.184375" />
+        <entry key="app/src/main/res/layout/welcome_slide1.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/welcome_slide2.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/welcome_slide3.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/welcome_slide4.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/wifi_fragment.xml" value="0.184375" />
+        <entry key="app/src/main/res/menu/activity_home_drawer.xml" value="0.18697916666666667" />
+        <entry key="app/src/main/res/menu/home.xml" value="0.18697916666666667" />
+        <entry key="app/src/main/res/menu/master_lock_option_menu.xml" value="0.18541666666666667" />
+        <entry key="app/src/main/res/menu/option_menu.xml" value="0.18697916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
